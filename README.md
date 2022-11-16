@@ -1,7 +1,7 @@
-# updated-look-at-me
+# Slight introduction
+Hello everyone, I am InvertZ. You may or may not know me as BigBrainedDev or InvertZ from gb.
+I code shit, lua and source. Also, don't ask me to work on yo damn fnf mod.
+I currently work on several mods such as the Giga Build and Horizons Edge.
 
-Hello, its BigBrainedDev1234 here
-I am here to reintroduce myself since it has been months LOL
-I am by my name, I have big brain and I can do big brain stuff with lua or maybe source
-
-Thats all LMAO.
+# Cool Shit
+I can code menus, remake gameplay, make platformers, and more with haxeflixel.
